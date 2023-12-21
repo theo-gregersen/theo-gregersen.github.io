@@ -16,7 +16,7 @@ Some short descriptions of my work for research projects at UW.
 Sep-23 ... (ongoing)
 {: .fs-3 }
 
-(Collaboration with University of Michigan) With the UW Systems Lab and UW Security & Privacy Research Lab, I'm experimenting with workflows for detecting gate-level hardware aging in an open-source RISC-V CPU. More details to come...
+(Collaboration with University of Michigan) With the UW Systems Lab and UW Security & Privacy Research Lab, I'm experimenting with workflows for detecting gate-level hardware aging in an open-source RISC-V CPU.
 
 SystemVerilog, Verilog, Python, C++
 {: .text-grey-dk-000 .fs-3 }
@@ -28,7 +28,7 @@ SystemVerilog, Verilog, Python, C++
 Sep-23 ... (ongoing)
 {: .fs-3 }
 
-(Collaboration with Microsoft Azure Systems Research) With the UW Systems Lab, I'm exploring low-level ways to improve power efficiency in GPU-related deep learning inference operations. This work isn't public at the moment.
+(Collaboration with Microsoft Azure Systems Research) With the UW Systems Lab, I'm exploring ways to improve power efficiency in GPU-related deep learning inference operations. This work isn't public at the moment.
 
 ---
 
