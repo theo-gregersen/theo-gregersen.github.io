@@ -1,9 +1,9 @@
----
-layout: page
+<!-- ---
+layout: minimal
 title: Research
 permalink: /research/
 nav_order: 1
----
+--- -->
 
 ## Research Projects
 

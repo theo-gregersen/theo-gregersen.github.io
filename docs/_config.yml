@@ -17,23 +17,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-# for github
-# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
-
-title: Theo Gregersen
-# email: your-email@example.com
-# description: >- # this means to ignore newlines until "baseurl:"
-#   Theo's website.
-# baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+title: Theo
+# description: Theo's site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://theo-gregersen.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: just-the-docs
-# plugins:
-#   - jekyll-feed
+search_enabled: true
+nav_enabled: false
+color_scheme: links
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -42,15 +35,15 @@ theme: just-the-docs
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
