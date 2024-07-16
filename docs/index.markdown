@@ -1,6 +1,8 @@
 ---
 layout: home
+title: About
 nav_enabled: false
+nav_order: 1
 ---
 
 ![Photo of Theo](DSC_5055.JPG){: style="width: 25%; height: 25%; float: right" }
@@ -8,24 +10,25 @@ nav_enabled: false
 ## Theo Gregersen
 
 
-BS/MS Student \
-Paul G. Allen School at University of Washington \
-Seattle, WA
+Incoming PhD Student \
+Carnegie Mellon University \
+Pittsburgh, PA
 {: .mt-6 }
 
 
 \[[LinkedIn](https://www.linkedin.com/in/theo-gregersen/)\] 
 \[[Google scholar](https://scholar.google.com/citations?user=fLlXcOUAAAAJ&hl=en&oi=ao)\] \
+tgregers @ andrew.cmu.edu \
 theoag @ cs.washington.edu
 {: .mt-6 }
 
 
 Hi! 
-I'm a fifth-year master's student studying computer science at the University of Washington (UW) in Seattle.
-My current research on energy efficiency in datacenters is advised by [Tom Anderson](https://www.cs.washington.edu/people/faculty/tom) in the [UW Syslab](https://syslab.cs.washington.edu/). 
-I also did my undergrad at UW and was advised by [Franziska Roesner](https://www.cs.washington.edu/people/faculty/franzi) in the [UW Security & Privacy Research Lab](https://seclab.cs.washington.edu/).
-My undergrad research focused on digital content and misinformation, and I wrote a thesis on privacy enforcement in software services.
-I'll be starting my PhD at Carnegie Mellon University (CMU) later this year.
+I'm an incoming computer science PhD student at Carnegie Mellon University in Pittsburgh.
+I'm interested in distributed systems and resource efficiency at scale.
+Before Carnegie, I completed my BS/MS at the University of Washington (UW) in Seattle.
+At UW, I researched datacenter energy efficiency with [Tom Anderson](https://www.cs.washington.edu/people/faculty/tom) in the [UW Syslab](https://syslab.cs.washington.edu/). 
+I also worked on digital misinformation and privacy enforcement with [Franziska Roesner](https://www.cs.washington.edu/people/faculty/franzi) in the [UW Security & Privacy Research Lab](https://seclab.cs.washington.edu/).
 {: .mt-6 }
 
 
