@@ -10,7 +10,7 @@ nav_order: 1
 ## Theo Gregersen
 
 
-Incoming PhD Student \
+PhD Student \
 Carnegie Mellon University \
 Pittsburgh, PA
 {: .mt-6 }
@@ -24,8 +24,9 @@ theoag @ cs.washington.edu
 
 
 Hi! 
-I'm an incoming computer science PhD student at Carnegie Mellon University in Pittsburgh.
+I'm a PhD student at Carnegie Mellon University in Pittsburgh, working in the [PDL](https://www.pdl.cmu.edu/index.shtml).
 I'm interested in distributed systems and resource efficiency at scale.
+
 Before Carnegie, I completed my BS/MS at the University of Washington (UW) in Seattle.
 At UW, I researched datacenter energy efficiency with [Tom Anderson](https://www.cs.washington.edu/people/faculty/tom) in the [UW Syslab](https://syslab.cs.washington.edu/). 
 I also worked on digital misinformation and privacy enforcement with [Franziska Roesner](https://www.cs.washington.edu/people/faculty/franzi) in the [UW Security & Privacy Research Lab](https://seclab.cs.washington.edu/).
