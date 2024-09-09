@@ -19,18 +19,17 @@ Pittsburgh, PA
 \[[LinkedIn](https://www.linkedin.com/in/theo-gregersen/)\] 
 \[[Google scholar](https://scholar.google.com/citations?user=fLlXcOUAAAAJ&hl=en&oi=ao)\] \
 tgregers @ andrew.cmu.edu \
-theoag @ cs.washington.edu
 {: .mt-6 }
 
 
 Hi! 
-I'm a PhD student at Carnegie Mellon University in Pittsburgh, working in the [PDL](https://www.pdl.cmu.edu/index.shtml).
+I'm a PhD student at Carnegie Mellon University (CMU) in Pittsburgh, working in the [PDL](https://www.pdl.cmu.edu/index.shtml).
 I'm interested in distributed systems and resource efficiency at scale.
-
-Before Carnegie, I completed my BS/MS at the University of Washington (UW) in Seattle.
-At UW, I researched datacenter energy efficiency with [Tom Anderson](https://www.cs.washington.edu/people/faculty/tom) in the [UW Syslab](https://syslab.cs.washington.edu/). 
-I also worked on digital misinformation and privacy enforcement with [Franziska Roesner](https://www.cs.washington.edu/people/faculty/franzi) in the [UW Security & Privacy Research Lab](https://seclab.cs.washington.edu/).
 {: .mt-6 }
+
+Before CMU, I completed my BS/MS at the University of Washington (UW) in Seattle.
+At UW, I researched datacenter sustainability with [Tom Anderson](https://www.cs.washington.edu/people/faculty/tom) in the [Syslab](https://syslab.cs.washington.edu/). 
+I also studied misinformation and privacy enforcement with [Franziska Roesner](https://www.cs.washington.edu/people/faculty/franzi) in the [Security & Privacy Research Lab](https://seclab.cs.washington.edu/).
 
 
 ## Publications
