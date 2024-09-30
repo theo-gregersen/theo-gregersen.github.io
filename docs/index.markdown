@@ -34,6 +34,11 @@ I also studied misinformation and privacy enforcement with [Franziska Roesner](h
 
 ## Publications
 
+[Input-Dependent Power Usage in GPUs](https://www.microsoft.com/en-us/research/publication/input-dependent-power-usage-in-gpus/) \
+**Theo Gregersen**, Pratyush Patel, Esha Choukse \
+Sustainable Supercomputing at Supercomputing (SC), November 2024
+
+
 [An Agile Pathway Towards Carbon-aware Clouds](https://dl.acm.org/doi/abs/10.1145/3604930.3605722) \
 Pratyush Patel, **Theo Gregersen**, Tom Anderson \
 2nd Workshop on Sustainable Computer Systems (HotCarbon), July 2023
