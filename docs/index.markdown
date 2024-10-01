@@ -17,8 +17,8 @@ Pittsburgh, PA
 
 
 \[[LinkedIn](https://www.linkedin.com/in/theo-gregersen/)\] 
-\[[Google scholar](https://scholar.google.com/citations?user=fLlXcOUAAAAJ&hl=en&oi=ao)\] \
-tgregers @ andrew.cmu.edu \
+\[[Google scholar](https://scholar.google.com/citations?user=xKwYmSgAAAAJ&hl=en&oi=ao)\] \
+tgregers @ andrew.cmu.edu
 {: .mt-6 }
 
 
