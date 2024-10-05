@@ -23,7 +23,7 @@ tgregers @ andrew.cmu.edu
 
 
 Hi! 
-I'm a PhD student at Carnegie Mellon University (CMU) in Pittsburgh, working in the [PDL](https://www.pdl.cmu.edu/index.shtml).
+I'm a PhD student at Carnegie Mellon University (CMU) in Pittsburgh, advised by [Greg Ganger](http://users.ece.cmu.edu/~ganger/) in the [PDL](https://www.pdl.cmu.edu/index.shtml).
 I'm interested in distributed systems and resource efficiency at scale.
 {: .mt-6 }
 
