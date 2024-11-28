@@ -34,6 +34,11 @@ I also studied misinformation and privacy enforcement with [Franziska Roesner](h
 
 ## Publications
 
+[Proactive Runtime Detection of Aging-Related Silent Data Corruptions: A Bottom-Up Approach.](https://www.asplos-conference.org/asplos2025/) \
+Jiacheng Ma, Majd Ganaiem, Madeline Burbage, **Theo Gregersen**, Rachel McAmis, Freddy Gabbay, Baris Kasikci \
+Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2025
+
+
 [Input-Dependent Power Usage in GPUs](https://www.microsoft.com/en-us/research/publication/input-dependent-power-usage-in-gpus/) \
 **Theo Gregersen**, Pratyush Patel, Esha Choukse \
 Sustainable Supercomputing at Supercomputing (SC), November 2024
