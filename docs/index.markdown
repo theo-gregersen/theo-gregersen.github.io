@@ -1,38 +1,31 @@
 ---
-layout: home
-title: About
-nav_enabled: false
-nav_order: 1
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
 ---
 
 ![Photo of Theo](DSC_5055.JPG){: style="width: 25%; height: 25%; float: right" }
 
-## Theo Gregersen
+## Theo Gregersen.
 
-
-PhD Student \
-Carnegie Mellon University \
-Pittsburgh, PA
-{: .mt-6 }
-
+PhD Student at Carnegie Mellon University
 
 \[[LinkedIn](https://www.linkedin.com/in/theo-gregersen/)\] 
 \[[Google scholar](https://scholar.google.com/citations?user=xKwYmSgAAAAJ&hl=en&oi=ao)\] \
-tgregers @ andrew.cmu.edu
-{: .mt-6 }
+tgregers @ andrew.cmu.edu 
 
-
-Hi! 
+Hi!
 I'm a PhD student at Carnegie Mellon University (CMU) in Pittsburgh, advised by [Greg Ganger](http://users.ece.cmu.edu/~ganger/) in the [PDL](https://www.pdl.cmu.edu/index.shtml).
-I'm interested in distributed systems and resource efficiency at scale.
-{: .mt-6 }
+I'm interested in distributed systems \
+and resource efficiency at scale.
+<br><br>
 
 Before CMU, I completed my BS/MS at the University of Washington (UW) in Seattle.
 At UW, I researched datacenter sustainability with [Tom Anderson](https://www.cs.washington.edu/people/faculty/tom) in the [Syslab](https://syslab.cs.washington.edu/). 
 I also studied misinformation and privacy enforcement with [Franziska Roesner](https://www.cs.washington.edu/people/faculty/franzi) in the [Security & Privacy Research Lab](https://seclab.cs.washington.edu/).
 
 
-## Publications
+## Publications.
 
 [Proactive Runtime Detection of Aging-Related Silent Data Corruptions: A Bottom-Up Approach.](https://www.asplos-conference.org/asplos2025/) \
 Jiacheng Ma, Majd Ganaiem, Madeline Burbage, **Theo Gregersen**, Rachel McAmis, Freddy Gabbay, Baris Kasikci \
