@@ -27,7 +27,7 @@ I also studied misinformation and privacy enforcement with [Franziska Roesner](h
 
 ## Publications.
 
-[Proactive Runtime Detection of Aging-Related Silent Data Corruptions: A Bottom-Up Approach.](https://www.asplos-conference.org/asplos2025/) \
+[Proactive Runtime Detection of Aging-Related Silent Data Corruptions: A Bottom-Up Approach.](https://dl.acm.org/doi/10.1145/3622781.3674182) \
 Jiacheng Ma, Majd Ganaiem, Madeline Burbage, **Theo Gregersen**, Rachel McAmis, Freddy Gabbay, Baris Kasikci \
 Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2025
 
