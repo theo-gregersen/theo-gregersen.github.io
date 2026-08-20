@@ -16,8 +16,7 @@ tgregers @ andrew.cmu.edu
 
 Hi!
 I'm a PhD student at Carnegie Mellon University (CMU) in Pittsburgh, advised by [Greg Ganger](https://www.ece.cmu.edu/directory/bios/ganger-greg.html) and [Dave Andersen](https://csd.cmu.edu/people/faculty/david-andersen) in the [PDL](https://www.pdl.cmu.edu/index.shtml).
-I'm interested in distributed systems \
-and resource efficiency at scale.
+I'm interested in distributed systems and resource efficiency at scale.
 <br><br>
 
 Before CMU, I completed my BS/MS at the University of Washington (UW) in Seattle.
