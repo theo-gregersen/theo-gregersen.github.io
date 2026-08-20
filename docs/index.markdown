@@ -15,7 +15,7 @@ PhD Student at Carnegie Mellon University
 tgregers @ andrew.cmu.edu 
 
 Hi!
-I'm a PhD student at Carnegie Mellon University (CMU) in Pittsburgh, advised by [Greg Ganger](http://users.ece.cmu.edu/~ganger/) in the [PDL](https://www.pdl.cmu.edu/index.shtml).
+I'm a PhD student at Carnegie Mellon University (CMU) in Pittsburgh, advised by [Greg Ganger](https://www.ece.cmu.edu/directory/bios/ganger-greg.html) and [Dave Andersen](https://csd.cmu.edu/people/faculty/david-andersen) in the [PDL](https://www.pdl.cmu.edu/index.shtml).
 I'm interested in distributed systems \
 and resource efficiency at scale.
 <br><br>
@@ -26,6 +26,10 @@ I also studied misinformation and privacy enforcement with [Franziska Roesner](h
 
 
 ## Publications.
+
+[Scaling the IO Wall with Declarative IO](https://www.usenix.org/conference/osdi26/presentation/athlur) \
+Sanjith Athlur, Sara McAllister, **Theo Gregersen**, Timothy Kim, Yiwei Chen, Sarvesh Tandon, Lucy Wang, Daniel S. Berger, Saurabh Kadekodi, Arif Merchant, Benjamin Berg, Nathan Beckmann, Rashmi Vinayak, George Amvrosiadis, Gregory R. Ganger \
+Operating Systems Design and Implementation (OSDI), July 2026
 
 [Proactive Runtime Detection of Aging-Related Silent Data Corruptions: A Bottom-Up Approach.](https://dl.acm.org/doi/10.1145/3622781.3674182) \
 Jiacheng Ma, Majd Ganaiem, Madeline Burbage, **Theo Gregersen**, Rachel McAmis, Freddy Gabbay, Baris Kasikci \
